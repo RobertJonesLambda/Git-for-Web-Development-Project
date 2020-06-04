@@ -127,7 +127,7 @@
     7. work on file
     8. commit file
     9. push changes
-    10. Pull request
+    10. Pull request  
 
 
 Stretch Questions
